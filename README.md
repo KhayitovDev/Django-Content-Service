@@ -4,8 +4,12 @@ Django Content Service with PostgreSQL
 Django blog, news app
 PostgreSQL is configured for database
 
-http://127.0.0.1:8000/ for swagger documentation
-http://127.0.0.1:8000/api/ for default Django Rest framework documentation
+Deployed on Pythonanywhere server
+
+https://khayitboykh.pythonanywhere.com/ for swagger documentation
+
+https://khayitboykh.pythonanywhere.com/api/
+for default Django Rest framework documentation
 
 
 Installation 
