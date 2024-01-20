@@ -5,10 +5,10 @@ Django Content Service with PostgreSQL
 
 Deployed on Pythonanywhere server
 
-https://khayitboykh.pythonanywhere.com/ for swagger documentation
+https://khayitboykh.pythonanywhere.com/ for swagger UI
 
 https://khayitboykh.pythonanywhere.com/api/
-for default Django Rest framework documentation
+for default Django Rest framework UI
 
 
 -Installation 
